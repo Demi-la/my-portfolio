@@ -11,6 +11,9 @@
     transition: var(--transition);
     height: 100%;
 }
+#services{
+    margin-top: 9rem;
+}
 .services:hover{
     background: transparent;
     border-color: var(--color-primary-variant);
