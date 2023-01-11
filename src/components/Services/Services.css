@@ -44,6 +44,8 @@
     color: var(--color-primary);
     margin-top: 2px;
 }
-.service__listp{
+.service__list p{
     font-size: 0.9rem;
+    text-align: justify;
+    text-align-last: center;
 }

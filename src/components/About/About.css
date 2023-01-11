@@ -72,6 +72,9 @@
 }
 .about__content p{
     margin: 2rem 0 2.6rem;
+    
+    text-align: justify;
+    text-align-last: center;
     color: var(--color-light);
 }
 .about__content{

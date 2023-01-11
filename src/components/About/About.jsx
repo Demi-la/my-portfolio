@@ -38,10 +38,12 @@ const About = () => {
             <small>10+</small>
           </article>
         </div>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, quisquam 
-          sed fugit, natus vitae tenetur quas cupiditate veritatis rerum aspernatur, nobis ad quod. Aut blanditiis quia iure
-          , in recusandae accusamus?
-          </p>
+        <p>
+        I am a recent graduate of a frontend development bootcamp, where I acquired hands-on experience in building web applications and developed skills in modern frontend technologies such as HTML, CSS, JavaScript, and popular frontend frameworks.
+         My education in software engineering and passion for web development led me to transition into frontend development. I am excited to bring my understanding of software development concepts, problem-solving abilities, and eagerness to learn to my new career. I am now able to create visually appealing and responsive user interfaces, design with accessibility in mind, 
+        work with frontend libraries and frameworks and use modern tools for development workflow.
+         I am eager to apply my skills in real-world projects and continue learning and growing as a frontend developer.
+        </p>
         <a href='#contacts' className='btn btn-primary'>Lets talk</a>
       </div>
     </div>   
