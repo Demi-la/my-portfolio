@@ -15,15 +15,18 @@ const Services = () => {
         <ul className='service__list'>
           <li>
             <AiOutlineCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor, sit amet consectetur </p>
+            <p>Website development: I can develop and design responsive and visually
+               appealing websites that work well on a variety of devices  </p>
           </li>
           <li>
             <AiOutlineCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor, sit amet consectetur </p>
+            <p>Website maintenance: I can help clients keep their websites up-to-date 
+              with the latest features, security updates, and design changes. </p>
           </li>
           <li>
             <AiOutlineCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor, sit amet consectetur </p>
+            <p>Landing page development: I can create simple, 
+              effective landing pages for digital marketing campaigns. </p>
           </li>
           <li>
             <AiOutlineCheck className='service__list-icon'/>

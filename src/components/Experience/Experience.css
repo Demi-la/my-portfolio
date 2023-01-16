@@ -1,8 +1,13 @@
 .experience__container{
    display: flex;
    justify-content: center;
+   /* height: 80vh; */
     
 }
+#experience{
+    margin-top: 15rem;
+}
+
 .experience__container > div{
     background: var(--color-bg-variant);
     padding: 2.4rem 4rem;

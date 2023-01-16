@@ -12,6 +12,10 @@
     border: o.4rem solid var(--color-primary-variant);
 
 }
+#testimonials{
+    margin-top: 9rem;
+}
+
 .testimonial{
     background: var(--color-bg-variant);
     text-align: center;

@@ -3,11 +3,16 @@
  display: grid;
  grid-template-columns: 30% 58%;
  gap:12%;
+ margin-left: 10rem;
 }
 .contact__options{
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
+}
+#contacts{
+    margin-top: 12rem;
+   
 }
 .contact__option{
     background: var(--color-bg-variant);
