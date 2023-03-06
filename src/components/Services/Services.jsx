@@ -13,6 +13,14 @@ const Services = () => {
           <h3>WEB DEVELOPMENT</h3>
         </div>
         <ul className='service__list'>
+             <li>
+            <AiOutlineCheck className='service__list-icon'/>
+            <p> Website optimization </p>
+          </li> 
+          <li>
+            <AiOutlineCheck className='service__list-icon'/>
+            <p> websites hosting </p>
+          </li> 
           <li>
             <AiOutlineCheck className='service__list-icon'/>
             <p>Website development: I can develop and design responsive and visually
@@ -26,16 +34,16 @@ const Services = () => {
           <li>
             <AiOutlineCheck className='service__list-icon'/>
             <p>Landing page development: I can create simple, 
-              effective landing pages for digital marketing campaigns. </p>
+              effective landing pages for digital marketing campaigns and so on. </p>
           </li>
-          <li>
+          {/* <li>
             <AiOutlineCheck className='service__list-icon'/>
             <p>Lorem ipsum dolor, sit amet consectetur </p>
           </li>
           <li>
             <AiOutlineCheck className='service__list-icon'/>
             <p>Lorem ipsum dolor, sit amet consectetur </p>
-          </li>
+          </li> */}
         </ul>
       </article>
      </div>
