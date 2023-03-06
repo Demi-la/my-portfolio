@@ -38,7 +38,7 @@ const About = () => {
             <small>10+</small>
           </article>
         </div>
-        <p>
+        <p className='page'>
         I am a recent graduate of a frontend development bootcamp, where I acquired hands-on experience in building web applications and developed skills in modern frontend technologies such as HTML, CSS, JavaScript, and popular frontend frameworks.
          My education in software engineering and passion for web development led me to transition into frontend development. I am excited to bring my understanding of software development concepts, problem-solving abilities, and eagerness to learn to my new career. I am now able to create visually appealing and responsive user interfaces, design with accessibility in mind, 
         work with frontend libraries and frameworks and use modern tools for development workflow.

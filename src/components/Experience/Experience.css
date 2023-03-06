@@ -39,3 +39,9 @@
    margin-top: 6px;
    color: var(--color-primary); 
 }
+
+@media screen and (max-width: 414px) {
+   .experience__container{
+    padding: 0 30px;
+   }
+}
