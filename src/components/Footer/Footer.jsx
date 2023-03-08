@@ -6,10 +6,10 @@ import {AiOutlineTwitter} from 'react-icons/ai'
 const Footer = () => {
   return (
     <footer>
-      <a href='#' className='footer__logo'>demi</a>
+      <a href='#' className='footer__logo'>DEMILADE</a>
 
       <ul className='links'>
-        <li><a href='#'>home</a></li>
+        <li><a href='#'>Home</a></li>
         <li><a href='#about'>About</a></li>
         <li><a href='#experience'>Experience</a></li>
         <li><a href='#services'>Services</a></li>

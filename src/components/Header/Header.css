@@ -41,8 +41,6 @@ header{
     border-radius: 12rem 12rem 0 0;
     overflow: hidden ;
     align-items: center;
-   
-
 }
 .scroll__down{
     position: absolute;
@@ -54,17 +52,21 @@ header{
     /* left: 2rem; */
 }
 
-@media  screen and (max-width:1024px) {
-    .header{
-        height: 64vh;
-    }
-}
-
-@media  screen and (max-width:600px) {
-    .header{
-        height: 100vh;
-    }
+@media  screen and (max-width:414px) {
     .header__socials, .scroll__down{
         display: none;
+    }
+    .photos{
+       left: 90px;
+    }
+    .text-light, .text{
+        padding-left: 40px;
+    }
+    .cta{
+        margin-top: 2.5rem;
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        padding-left: 40px;
     }
 }
