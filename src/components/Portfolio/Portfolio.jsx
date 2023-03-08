@@ -1,53 +1,53 @@
 import React from 'react'
 import './Portfolio.css'
-import image1 from '../../assets/image1.jpg'
-import image2 from '../../assets/image2.jpg'
-import image3 from '../../assets/image3.png'
-import image4 from '../../assets/image4.jpg'
-import image5 from '../../assets/image5.jpg'
-import image6 from '../../assets/image6.jpeg'
+import image1 from '../../assets/Screenshot.png'
+import image2 from '../../assets/knife.png'
+import image3 from '../../assets/dogs.png'
+import image4 from '../../assets/loop.jpg'
+import image5 from '../../assets/pricing.png'
+import image6 from '../../assets/order.png'
 
 const data =[
   {
    id: 1,
    image: image1,
    title: 'first project',
-   github: 'http://github.com',
+   github: 'https://github.com/Demi-la/notification',
    demo: 'http://github.com'
   },
   {
     id: 2,
     image: image2,
     title: 'second project',
-    github: 'http://github.com',
+    github: 'https://github.com/Demi-la/knife-case',
     demo: 'http://github.com'
    },
    {
     id: 3,
     image: image3,
     title: 'third project',
-    github: 'http://github.com',
+    github: 'https://github.com/Demi-la/Dog-breed',
     demo: 'http://github.com'
    },
    {
     id: 4,
     image: image4,
     title: 'fourth project',
-    github: 'http://github.com',
+    github: 'https://github.com/Demi-la/loopstudio-landing-page',
     demo: 'http://github.com'
    },
    {
     id: 5,
     image: image5,
     title: 'fifth project',
-    github: 'http://github.com',
+    github: 'https://github.com/Demi-la/Pricing-app',
     demo: 'http://github.com'
    },
    {
     id: 6,
     image: image6,
     title: 'sixth project',
-    github: 'http://github.com',
+    github: 'https://github.com/Demi-la/order-summary',
     demo: 'http://github.com'
    }
 ]

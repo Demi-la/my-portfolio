@@ -11,6 +11,9 @@
     transition: var(--transition);
     height: 100%;
 }
+#services{
+    margin-top: 9rem;
+}
 .services:hover{
     background: transparent;
     border-color: var(--color-primary-variant);
@@ -40,7 +43,19 @@
 .service__list-icon{
     color: var(--color-primary);
     margin-top: 2px;
+
 }
-.service__listp{
+.service__list p{
     font-size: 0.9rem;
+    text-align: justify;
+    text-align-last: center;
+}
+
+@media screen and (max-width: 414px) {
+    .services{
+        margin-left: 50px;
+    }
+    .service__list-icon{
+        font-size: 1rem;
+    }
 }

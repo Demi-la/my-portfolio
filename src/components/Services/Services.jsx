@@ -13,26 +13,37 @@ const Services = () => {
           <h3>WEB DEVELOPMENT</h3>
         </div>
         <ul className='service__list'>
+             <li>
+            <AiOutlineCheck className='service__list-icon'/>
+            <p> Website optimization </p>
+          </li> 
           <li>
+            <AiOutlineCheck className='service__list-icon'/>
+            <p> websites hosting </p>
+          </li> 
+          <li>
+            <AiOutlineCheck className='service__list-icon'/>
+            <p>Website development: I can develop and design responsive and visually
+               appealing websites that work well on a variety of devices  </p>
+          </li>
+          <li>
+            <AiOutlineCheck className='service__list-icon'/>
+            <p>Website maintenance: I can help clients keep their websites up-to-date 
+              with the latest features, security updates, and design changes. </p>
+          </li>
+          <li>
+            <AiOutlineCheck className='service__list-icon'/>
+            <p>Landing page development: I can create simple, 
+              effective landing pages for digital marketing campaigns and so on. </p>
+          </li>
+          {/* <li>
             <AiOutlineCheck className='service__list-icon'/>
             <p>Lorem ipsum dolor, sit amet consectetur </p>
           </li>
           <li>
             <AiOutlineCheck className='service__list-icon'/>
             <p>Lorem ipsum dolor, sit amet consectetur </p>
-          </li>
-          <li>
-            <AiOutlineCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor, sit amet consectetur </p>
-          </li>
-          <li>
-            <AiOutlineCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor, sit amet consectetur </p>
-          </li>
-          <li>
-            <AiOutlineCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor, sit amet consectetur </p>
-          </li>
+          </li> */}
         </ul>
       </article>
      </div>
