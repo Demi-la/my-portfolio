@@ -16,14 +16,14 @@ const Experience = () => {
                <BsFillCheckSquareFill className='experience__details-icon'/>
                <div>
                <h4>HTML</h4>
-               <small className='text-light'>Experience</small>
+               <small className='text-light'>Intermidate</small>
                </div>
             </article>
             <article className='experience__details'>
                <BsFillCheckSquareFill  className='experience__details-icon'/>
                <div>
                 <h4>CSS</h4>
-                <small className='text-light'>Experience</small>
+                <small className='text-light'>Intermidate</small>
                </div>
             </article>
             <article className='experience__details'>
@@ -37,7 +37,7 @@ const Experience = () => {
                <BsFillCheckSquareFill  className='experience__details-icon'/>
                <div>
                <h4>REACTJS</h4>
-               <small className='text-light'>Intermidate</small>
+               <small className='text-light'>Junior</small>
                </div>
             </article>
             <article className='experience__details'>
