@@ -28,7 +28,7 @@ const data =[
     image: image3,
     title: 'third project',
     github: 'https://github.com/Demi-la/Dog-breed',
-    demo: 'http://github.com'
+    demo: 'https://dog-breed-git-master-demi-la.vercel.app/'
    },
    {
     id: 4,
