@@ -41,7 +41,7 @@ const data =[
     image: image5,
     title: 'fifth project',
     github: 'https://github.com/Demi-la/Pricing-app',
-    demo: 'http://github.com'
+    demo: 'https://pricing-app-git-master-demi-la.vercel.app/'
    },
    {
     id: 6,
