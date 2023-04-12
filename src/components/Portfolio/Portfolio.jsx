@@ -1,6 +1,6 @@
 import React from 'react'
 import './Portfolio.css'
-import image1 from '../../assets/Screenshot.png'
+import image1 from '../../assets/notification.png'
 import image2 from '../../assets/knife.png'
 import image3 from '../../assets/dogs.png'
 import image4 from '../../assets/loop.jpg'
@@ -13,21 +13,22 @@ const data =[
    image: image1,
    title: 'first project',
    github: 'https://github.com/Demi-la/notification',
-   demo: 'http://github.com'
+   demo: 'https://notification-git-master-demi-la.vercel.app/'
   },
-  {
-    id: 2,
-    image: image2,
-    title: 'second project',
-    github: 'https://github.com/Demi-la/knife-case',
-    demo: 'http://github.com'
-   },
+{
+  id: 2,
+  image: image5,
+  title: 'fifth project',
+  github: 'https://github.com/Demi-la/Pricing-app',
+  demo: 'https://pricing-app-git-master-demi-la.vercel.app/'
+ },
+ 
    {
     id: 3,
     image: image3,
     title: 'third project',
     github: 'https://github.com/Demi-la/Dog-breed',
-    demo: 'http://github.com'
+    demo: 'https://dog-breed-git-master-demi-la.vercel.app/'
    },
    {
     id: 4,
@@ -38,10 +39,10 @@ const data =[
    },
    {
     id: 5,
-    image: image5,
-    title: 'fifth project',
-    github: 'https://github.com/Demi-la/Pricing-app',
-    demo: 'https://pricing-app-git-master-demi-la.vercel.app/'
+    image: image2,
+    title: 'second project',
+    github: 'https://github.com/Demi-la/knife-case',
+    demo: 'http://github.com'
    },
    {
     id: 6,
