@@ -2,6 +2,7 @@ import React from 'react'
 import './Portfolio.css'
 import image1 from '../../assets/notification.png'
 import image2 from '../../assets/pricing.png'
+import market from '../../assets/Screenshot (52).png'
 import image3 from '../../assets/dogs.png'
 import image4 from '../../assets/advice.png'
 import image5 from '../../assets/loop.jpg'
@@ -25,38 +26,45 @@ const data =[
   github: 'https://github.com/Demi-la/Pricing-app',
   demo: 'https://pricing-app-git-master-demi-la.vercel.app/'
  },
+ {
+  id: 3,
+  image: market,
+  title: 'Market Express',
+  github: 'https://github.com/Demi-la/Market-express',
+  demo: 'https://market-express-demi-la.vercel.app',
+ },
  
    {
-    id: 3,
+    id: 4,
     image: image3,
     title: 'Dog Breed',
     github: 'https://github.com/Demi-la/Dog-breed',
     demo: 'https://dog-breed-git-master-demi-la.vercel.app/'
    },
    {
-    id: 4,
+    id: 5,
     image: image4,
     title: 'Advice Generator',
     github: 'https://github.com/Demi-la/Advice-Generator',
     demo: 'https://advice-generator-rose-eight.vercel.app/'
    },
    {
-    id: 5,
+    id: 6,
     image: image5,
     title: 'Loopstudio',
     github:  'https://github.com/Demi-la/loopstudio-landing-page',
     demo: 'http://github.com'
    },
    {
-    id: 6,
+    id: 7,
     image: image6,
     title: 'Knife Case',
     github: 'https://github.com/Demi-la/knife-case',
     demo: 'http://github.com',
    },
    {
-    id: 7,
-    image: image6,
+    id: 8,
+    image: image7,
     title: 'Order Summary',
     github: 'https://github.com/Demi-la/order-summary',
     demo: 'http://github.com'
