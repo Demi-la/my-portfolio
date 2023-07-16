@@ -29,6 +29,20 @@ const Experience = () => {
             <article className='experience__details'>
                <BsFillCheckSquareFill  className='experience__details-icon'/>
                <div>
+                <h4>Styled Component</h4>
+                <small className='text-light'>Intermidate</small>
+               </div>
+            </article>
+            <article className='experience__details'>
+               <BsFillCheckSquareFill  className='experience__details-icon'/>
+               <div>
+                <h4>Chakra UI</h4>
+                <small className='text-light'>Intermidate</small>
+               </div>
+            </article>
+            <article className='experience__details'>
+               <BsFillCheckSquareFill  className='experience__details-icon'/>
+               <div>
                <h4>JAVASCRIPT</h4>
                <small className='text-light'>Junior</small>
                </div>
@@ -37,6 +51,13 @@ const Experience = () => {
                <BsFillCheckSquareFill  className='experience__details-icon'/>
                <div>
                <h4>REACTJS</h4>
+               <small className='text-light'>Junior</small>
+               </div>
+            </article>
+            <article className='experience__details'>
+               <BsFillCheckSquareFill  className='experience__details-icon'/>
+               <div>
+               <h4>NEXTJS</h4>
                <small className='text-light'>Junior</small>
                </div>
             </article>
